@@ -1,0 +1,27 @@
+{
+  "name": "next-typescript-session-sample",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@hapi/iron": "^6.0.0",
+    "axios": "^0.19.2",
+    "axios-cookiejar-support": "^1.0.0",
+    "cookie": "^0.4.1",
+    "next": "^9.3.6",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "tough-cookie": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/cookie": "^0.3.3",
+    "@types/node": "^13.13.4",
+    "@types/react": "^16.9.34",
+    "@types/tough-cookie": "^4.0.0",
+    "typescript": "^3.8.3"
+  }
+}
