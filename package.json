@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@hapi/iron": "^6.0.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-cookiejar-support": "^1.0.0",
     "cookie": "^0.4.1",
     "next": "^9.3.6",
